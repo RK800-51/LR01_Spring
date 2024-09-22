@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2024-09-22T11:31:33.429039951</dc:date><meta:editing-duration>PT9M49S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="50" meta:word-count="747" meta:character-count="5387" meta:non-whitespace-character-count="4619"/><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">15240</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">36885</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17702</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9941</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">53717</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">15240</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">36883</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">32941</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">486470</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">486470</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="YS Text" svg:font-family="&apos;YS Text&apos;, &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="YS Text" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:font-weight="bold" officeooo:paragraph-rsid="00076c46" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="bold" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:rsid="00076c46" officeooo:paragraph-rsid="00076c46" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="zxx" fo:country="none" officeooo:paragraph-rsid="00076c46" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="zxx" fo:country="none" fo:font-weight="bold" officeooo:paragraph-rsid="00076c46" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="bold" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="00076c46"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="YS Text" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="Liberation Serif" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:font-style="normal"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="Liberation Serif" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-weight="normal" officeooo:rsid="00076c46"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P2">Ответы на вопросы, ЛР №1. </text:p>
+   <text:p text:style-name="P2">Номера вопросов – четные.</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P4"><text:span text:style-name="T3">Чем отличаются языки программирования Java и Kotlin?</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">1. Синтаксис:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Kotlin имеет более лаконичный и выразительный синтаксис по сравнению с Java. Это позволяет разработчикам писать меньше кода для выполнения тех же задач.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Например, в Kotlin не требуется явно объявлять типы переменных в некоторых случаях, так как компилятор может их вывести автоматически.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">2. Безопасность типов:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Kotlin имеет встроенную поддержку нулевых значений и возможность использовать типы, безопасные от null. Это позволяет избежать распространенной ошибки NullPointerException, которая часто возникает в Java.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- В Java все объекты могут быть null, что требует дополнительной обработки и проверки.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">3. Функциональные возможности:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Kotlin поддерживает функциональное программирование и предоставляет такие возможности, как высшие функции, лямбда-выражения и расширения функций, что делает его более гибким и мощным для некоторых задач.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Java также поддерживает функциональное программирование (начиная с Java 8), но в целом его синтаксис более громоздкий.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">4. Совместимость:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Kotlin полностью совместим с Java, поэтому вы можете использовать библиотеки Java в проектах на Kotlin и наоборот.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Это также позволяет легко мигрировать существующие Java приложения на Kotlin, поэтапно заменяя код.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">5. Лямбда-выражения и стримы:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Хотя Java 8 представила лямбда-выражения и API стримов, в Kotlin лямбда-выражения являются неотъемлемой частью языка и более удобно интегрированы в синтаксис.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">6. Свойства:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- В Kotlin вместо стандартных методов getter и setter для доступа к полям класса используются свойства, что делает код более чистым и удобным для чтения.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">7. Архитектура:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"><text:s text:c="3"/>- Kotlin ориентирован на современные архитектурные паттерны и имеет мощные инструменты для работы с асинхронными операциями, например, корутины. Это делает написание асинхронного кода более простым и удобным.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">8. Поддержка:</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4">- Kotlin активно поддерживается JetBrains, создателем IntelliJ IDEA и Android Studio. Google официально поддерживает Kotlin для разработки на Android, что делает его предпочтительным выбором для новых проектов.</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T5">Чем отличаются языки программирования Kotlin и Groovy?</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">1. Статическая vs </text:span><text:span text:style-name="T7">Д</text:span><text:span text:style-name="T6">инамическая типизация:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Kotlin: Является языком с статической типизацией. Это означает, что типы переменных определяются на этапе компиляции, что позволяет находить ошибки раньше, улучшает производительность и предлагает более строгую проверку типов.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Groovy: Поддерживает динамическую типизацию, что делает его более гибким. Тем не менее, Groovy может также использовать статическую типизацию, если это необходимо, с помощью </text:span><text:soft-page-break/><text:span text:style-name="T6">аннотаций.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">2. Синтаксис:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Kotlin: Имеет современный и лаконичный синтаксис, который сочетает в себе элементы из Java и других языков (таких как Scala и Swift). Он предлагает такие функции, как расширения функций, лямбда-выражения и корутины для асинхронного программирования.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Groovy: Синтаксис Groovy более похож на Java, но более выразительный и гибкий. Он часто используется для написания скриптов и имеет поддержку строк с подстановкой и динамических типов.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">3. Использование:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Kotlin: Широко используется для разработки Android-приложений и в общем для многоплатформенной разработки. Kotlin имеет хорошую интеграцию с Android Studio и стал официальным языком для Android.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Groovy: Часто применяется для написания скриптов, тестирования (например, с использованием фреймворка Spock) и в рамках проекта Gradle для сборки приложений.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">4. Совместимость с Java:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">- Оба языка имеют хорошую совместимость с Java, но Kotlin обеспечивает больше возможностей для работы с существующим кодом на Java, так как он разрабатывался зачастую с учетом этой совместимости.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T5">Что нового добавилось в Java 17 в отличии от Java 11?</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">Java 17, выпущенная в сентябре 2021 года, является версией долгосрочной поддержки (LTS) и включает несколько новых функций и улучшений по сравнению с Java 11. Вот основные изменения:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">1. Нововведения в язык:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Pattern Matching для instanceof: Упрощает синтаксис проверки типа с помощью оператора instanceof, позволяя избавиться от явного приведения типа.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Sealed Classes: Позволяют ограничить, какие классы могут наследовать от определенного класса или реализовывать интерфейс. Это улучшает контроль над иерархией наследования.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">2. Добавление новых API и улучшений:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- New macOS Rendering Pipeline: Для улучшения производительности графического интерфейса на macOS.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Foreign Function &amp; Memory API: Позволяет взаимодействовать с кодом на других языках и управлять памятью вне управления JVM. Эта функция находится в стадии предварительного просмотра.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- JEP 411: Deprecate the Security Manager for Removal: API Security Manager помечен для удаления в будущих версиях, что говорит о пересмотре подхода к безопасности.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">3. JGIT и улучшения в библиотеке:</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"><text:s text:c="3"/>- Улучшения в библиотеке, такие как новый метод java.nio.Path::of, новые возможности работы с коллекциями и улучшения в методах для работы с потоками.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">4. JEP 382: New macOS Rendering Pipeline: Улучшение графического рендеринга для приложений на macOS.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">5. JEP 391: macOS/AArch64 Port: Поддержка архитектуры AArch64 на macOS.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">6. JEP 411: Deprecate the Security Manager for Removal: Призыв к удалению Security Manager, что указывает на изменение подхода к безопасности.</text:span></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T6">7. JEP 389: Foreign Function &amp; Memory API (Incubator): Возможность работы с функциями и </text:span><text:soft-page-break/><text:span text:style-name="T6">памятью вне JVM.</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>
